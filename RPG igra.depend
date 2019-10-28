@@ -1,0 +1,2711 @@
+# depslib dependency file v1.0
+1511313548 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1511335936 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\eingine.cpp
+	"Engine.h"
+
+1511335519 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\engine.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511334731 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1511385332 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1508772769 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511335892 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385766 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 15 i 16\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1511386026 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385766 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1511943717 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772769 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511313548 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1512513125 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"Tileset.h"
+	"Level.h"
+
+1511385568 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1511944367 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\eingine.cpp
+	"Engine.h"
+
+1511925806 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\tileset.cpp
+	"Tileset.h"
+
+1511926731 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1511927324 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\level.cpp
+	"Level.h"
+
+1511926968 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1511944233 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1511386026 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385766 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1513455962 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1513455901 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\eingine.cpp
+	"Engine.h"
+
+1513453679 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"Tileset.h"
+	"Level.h"
+	"KeyEventHandler.h"
+
+1511926731 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1511926968 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1511313548 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\main.cpp
+	<iostream>
+	"Engine.h"
+
+1511385568 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\sprite.cpp
+	"Sprite.h"
+
+1512510411 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\tileset.cpp
+	"Tileset.h"
+
+1512513230 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\level.cpp
+	"Level.h"
+
+1513453688 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 17 i 18\rpg igra2\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1511386026 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385766 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1513455962 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1512513230 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\level.cpp
+	"Level.h"
+
+1511926968 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1511926731 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1511313548 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1513465295 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"Tileset.h"
+	"Level.h"
+	"Bat.h"
+	"KeyEventHandler.h"
+
+1513453688 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1511385568 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1512510411 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\tileset.cpp
+	"Tileset.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772769 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1513467981 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\eingine.cpp
+	"Engine.h"
+
+1513467680 source:c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\bat.cpp
+	"Bat.h"
+
+1513467229 c:\users\ivan\desktop\singidunum\vezbe c++\resenja\vezbe 19 i 20\rpg igra\bat.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1511386026 source:c:\users\student\desktop\kk\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385766 c:\users\student\desktop\kk\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1513852049 c:\users\student\desktop\kk\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786981 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772769 c:\users\student\desktop\kk\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1512513230 source:c:\users\student\desktop\kk\rpg igra\level.cpp
+	"Level.h"
+
+1511926968 c:\users\student\desktop\kk\rpg igra\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1511926731 c:\users\student\desktop\kk\rpg igra\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1511313548 source:c:\users\student\desktop\kk\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1513857288 c:\users\student\desktop\kk\rpg igra\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"Tileset.h"
+	"Level.h"
+	"KeyEventHandler.h"
+	"FirstSprite.h"
+
+1513453688 c:\users\student\desktop\kk\rpg igra\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1511385568 source:c:\users\student\desktop\kk\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1512510411 source:c:\users\student\desktop\kk\rpg igra\tileset.cpp
+	"Tileset.h"
+
+1513467680 source:c:\users\student\desktop\kk\rpg igra\bat.cpp
+	"Bat.h"
+
+1513468155 c:\users\student\desktop\kk\rpg igra\bat.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1513856037 source:c:\users\student\desktop\kk\rpg igra\eingine.cpp
+	"Engine.h"
+
+1513853238 c:\users\student\desktop\kk\rpg igra\firstsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1513853868 source:c:\users\student\desktop\kk\rpg igra\firstsprite.cpp
+	"FirstSprite.h"
+
+1513855630 source:c:\users\student\desktop\kk\rpg igra\secondsprite.cpp
+	"SecondSprite.h"
+	<cstdlib>
+	<cmath>
+
+1513857235 c:\users\student\desktop\kk\rpg igra\secondsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1513856482 source:c:\users\student\desktop\kk\rpg igra\firstspritenonanimated.cpp
+	"FirstSpriteNonAnimated.h"
+
+1513856201 c:\users\student\desktop\kk\rpg igra\firstspritenonanimated.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Sprite.h"
+
+1511386028 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385768 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1513852050 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1513467682 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\bat.cpp
+	"Bat.h"
+
+1513468156 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\bat.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1517061441 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\eingine.cpp
+	"Engine.h"
+
+1517061465 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"Tileset.h"
+	"Level.h"
+	"KeyEventHandler.h"
+	"FirstSprite.h"
+	"SpriteZ1.h"
+	"SpriteZ2.h"
+	"SpriteZ3.h"
+	"SpriteZ4.h"
+	"SpriteZ5.h"
+	"Scorpion.h"
+
+1511926732 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1511926970 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1513453690 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1515415913 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\firstsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1513856484 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\firstspritenonanimated.cpp
+	"FirstSpriteNonAnimated.h"
+
+1513856202 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\firstspritenonanimated.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Sprite.h"
+
+1512513232 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\level.cpp
+	"Level.h"
+
+1511313550 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1511385570 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1512510412 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\tileset.cpp
+	"Tileset.h"
+
+1515415881 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\firstsprite.cpp
+	"FirstSprite.h"
+
+1515414312 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\secondsprite.cpp
+	"SecondSprite.h"
+	<cstdlib>
+	<cmath>
+
+1513857236 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\secondsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1515414409 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\thirdsprite.cpp
+	"ThirdSprite.h"
+	<cstdlib>
+	<cmath>
+
+1515414424 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\thirdsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1515416018 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez4.h
+	<cmath>
+	"AnimatedSprite.h"
+	"util.h"
+
+1517060257 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\util.h
+	<cmath>
+
+1515404899 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez1.cpp
+	"SpriteZ1.h"
+
+1515406615 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez1.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1515405938 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez2.cpp
+	"SpriteZ2.h"
+
+1515406620 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez2.h
+	"SpriteZ1.h"
+	"util.h"
+
+1515409158 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez3.cpp
+	"SpriteZ3.h"
+
+1515407768 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez3.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1515411266 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez4.cpp
+	"SpriteZ4.h"
+
+1515418821 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez5.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1515418502 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\spritez5.cpp
+	"SpriteZ5.h"
+
+1517061085 source:c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\scorpion.cpp
+	"Scorpion.h"
+
+1517061381 c:\users\mgojk\desktop\miloš gojkoviæ 2016270969\rpg igra\scorpion.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1511386028 source:d:\c++ proj\rpg igra\animatedsprite.cpp
+	"AnimatedSprite.h"
+
+1511385768 d:\c++ proj\rpg igra\animatedsprite.h
+	<vector>
+	"Sprite.h"
+
+1517550186 d:\c++ proj\rpg igra\sprite.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1513467682 source:d:\c++ proj\rpg igra\bat.cpp
+	"Bat.h"
+
+1513468156 d:\c++ proj\rpg igra\bat.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1515415881 source:d:\c++ proj\rpg igra\firstsprite.cpp
+	"FirstSprite.h"
+
+1515415913 d:\c++ proj\rpg igra\firstsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1513856484 source:d:\c++ proj\rpg igra\firstspritenonanimated.cpp
+	"FirstSpriteNonAnimated.h"
+
+1513856202 d:\c++ proj\rpg igra\firstspritenonanimated.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Sprite.h"
+
+1512513232 source:d:\c++ proj\rpg igra\level.cpp
+	"Level.h"
+
+1511926970 d:\c++ proj\rpg igra\level.h
+	<iostream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tileset.h"
+
+1511926732 d:\c++ proj\rpg igra\tileset.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1517165367 source:d:\c++ proj\rpg igra\main.cpp
+	<iostream>
+	"Engine.h"
+
+1517550053 d:\c++ proj\rpg igra\engine.h
+	<iostream>
+	<map>
+	<utility>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Sprite.h"
+	"AnimatedSprite.h"
+	"KeyEventHandler.h"
+	"Board.h"
+	"Bishop.h"
+	"King.h"
+	"Knight.h"
+	"Pawn.h"
+	"Queen.h"
+	"Rook.h"
+	"Cursor.h"
+
+1513453690 d:\c++ proj\rpg igra\keyeventhandler.h
+	<SDL2/SDL.h>
+	"Sprite.h"
+
+1515406615 d:\c++ proj\rpg igra\spritez1.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1517060257 d:\c++ proj\rpg igra\util.h
+	<cmath>
+
+1515406620 d:\c++ proj\rpg igra\spritez2.h
+	"SpriteZ1.h"
+	"util.h"
+
+1515407768 d:\c++ proj\rpg igra\spritez3.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1515416018 d:\c++ proj\rpg igra\spritez4.h
+	<cmath>
+	"AnimatedSprite.h"
+	"util.h"
+
+1515418821 d:\c++ proj\rpg igra\spritez5.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1517061381 d:\c++ proj\rpg igra\scorpion.h
+	"AnimatedSprite.h"
+	"util.h"
+
+1517061996 source:d:\c++ proj\rpg igra\scorpion.cpp
+	"Scorpion.h"
+
+1515414312 source:d:\c++ proj\rpg igra\secondsprite.cpp
+	"SecondSprite.h"
+	<cstdlib>
+	<cmath>
+
+1513857236 d:\c++ proj\rpg igra\secondsprite.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"AnimatedSprite.h"
+
+1517544582 source:d:\c++ proj\rpg igra\sprite.cpp
+	"Sprite.h"
+
+1515404899 source:d:\c++ proj\rpg igra\spritez1.cpp
+	"SpriteZ1.h"
+
+1515405938 source:d:\c++ proj\rpg igra\spritez2.cpp
+	"SpriteZ2.h"
+
+1515409158 source:d:\c++ proj\rpg igra\spritez3.cpp
+	"SpriteZ3.h"
+
+1515411266 source:d:\c++ proj\rpg igra\spritez4.cpp
+	"SpriteZ4.h"
+
+1515418502 source:d:\c++ proj\rpg igra\spritez5.cpp
+	"SpriteZ5.h"
+
+1512510412 source:d:\c++ proj\rpg igra\tileset.cpp
+	"Tileset.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\c++ proj\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517557018 source:d:\c++ proj\rpg igra\eingine.cpp
+	"Engine.h"
+
+1517545181 source:d:\c++ proj\rpg igra\chesspiece.cpp
+	"ChessPiece.h"
+
+1517550268 d:\c++ proj\rpg igra\chesspiece.h
+	"Sprite.h"
+	"util.h"
+
+1517191731 source:d:\c++ proj\rpg igra\bishop.cpp
+	"Bishop.h"
+
+1517178482 d:\c++ proj\rpg igra\bishop.h
+	"ChessPiece.h"
+
+1517191740 source:d:\c++ proj\rpg igra\king.cpp
+	"King.h"
+
+1517178471 d:\c++ proj\rpg igra\king.h
+	"ChessPiece.h"
+
+1517337835 source:d:\c++ proj\rpg igra\knight.cpp
+	"Knight.h"
+
+1517178462 d:\c++ proj\rpg igra\knight.h
+	"ChessPiece.h"
+
+1517328637 source:d:\c++ proj\rpg igra\pawn.cpp
+	"Pawn.h"
+
+1517178456 d:\c++ proj\rpg igra\pawn.h
+	"ChessPiece.h"
+
+1517191783 source:d:\c++ proj\rpg igra\queen.cpp
+	"Queen.h"
+
+1517178447 d:\c++ proj\rpg igra\queen.h
+	"ChessPiece.h"
+
+1517191707 source:d:\c++ proj\rpg igra\rook.cpp
+	"Rook.h"
+
+1517178052 d:\c++ proj\rpg igra\rook.h
+	"ChessPiece.h"
+
+1517177222 source:d:\c++ proj\rpg igra\board.cpp
+	"Board.h"
+
+1517177205 d:\c++ proj\rpg igra\board.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1517510233 d:\c++ proj\rpg igra\cursor.h
+	"Sprite.h"
+	"util.h"
+	"ChessPiece.h"
+
+1517510261 source:d:\c++ proj\rpg igra\cursor.cpp
+	"Cursor.h"
+
